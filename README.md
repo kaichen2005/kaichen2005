@@ -1,4 +1,4 @@
-## 👋🏻 Personal Intro
+## Personal Intro
 
 Hi there :)
 
@@ -6,13 +6,13 @@ My name is **Kai Chen**.
 
 I'm currently an undergraduate at the [Department of Mathematics](https://math.sustech.edu.cn) at [Southern University of Scicence and Technology(SUSTech)](https://www.sustech.edu.cn).
 
-## 🌟 Current Interests
+## Current Interests
 
 Mathematics: Analysis, Probability & Statistics;
 
 Computer Science: Machine Learning & Deep Learning;
 
-## 🛫 Coming Activities
+## Coming Activities
 
 I'm going to [*LMH Summer School Program 2025*](https://www.lmh.ox.ac.uk/study-here/lmh-summer-programmes) (Session 1) held by [Lady Margaret Hall](https://www.lmh.ox.ac.uk) of the University of Oxford this summer!
 
